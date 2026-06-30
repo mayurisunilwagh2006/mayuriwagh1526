@@ -15,9 +15,9 @@ This project presents an interactive Sales Dashboard developed using Power BI to
 -  Analyzes the impact of discounts on sales performance
 
 ## 📂 Files Included
--📊 Sales_Dashboard.pbix 
--📁 Dataset/Sales_Data.csv 
--🖼️ Images/Dashboard_Screenshot
+-  📊 Sales_Dashboard.pbix 
+-  📁 Dataset/Sales_Data.csv 
+-  🖼️ Images/Dashboard_Screenshot
 
 ## 🖼️ Dashboard Preview
 <img width="917" height="519" alt="image" src="https://github.com/user-attachments/assets/02fb5aa0-a236-4b8a-b695-20187b525b37" />
